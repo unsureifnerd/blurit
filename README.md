@@ -48,7 +48,7 @@
 
 ## Download
 
-Grab the latest **[BlurIt-1.0.dmg](BlurIt-1.0.dmg)**, open it, drag `BlurIt.app` into **Applications**.
+Grab the latest **[BlurIt-1.0.dmg](https://github.com/unsureifnerd/blurit/releases/download/v1.0/BlurIt-1.0.dmg)** from [Releases](https://github.com/unsureifnerd/blurit/releases/latest), open it, drag `BlurIt.app` into **Applications**.
 
 > **First launch note:** Because the app is not yet notarized, macOS Gatekeeper will show a warning. Right-click (or Control-click) `BlurIt.app` → **Open** → **Open** to bypass it. This is a one-time step.
 
@@ -98,16 +98,12 @@ open BlurIt.xcodeproj   # then ⌘R
 
 ---
 
-## Roadmap
+## Project status
 
-- [ ] Notarized DMG for seamless Gatekeeper bypass
-- [ ] Timed auto-blur (set a duration)
-- [ ] Per-app exclusions (keep specific windows above blur)
-- [ ] Menu bar icon customisation
-- [ ] Hotkey for cycling blur styles
+This was built as a personal, one-time project — scratching my own itch. It is not actively maintained, but it works as-is and the code is intentionally clean so anyone can fork it, extend it, or strip it down for their own needs. If I ever want something new added I'll add it myself; until then, consider it done.
 
 ---
 
 ## License
 
-[MIT](../LICENSE) © [unsureifnerd](https://github.com/unsureifnerd)
+[MIT](LICENSE) © [unsureifnerd](https://github.com/unsureifnerd)
