@@ -14,3 +14,10 @@ DerivedData/
 # Archives & exports
 *.xcarchive
 build/
+
+# Internal / dev-only files
+*.dmg
+*.ico
+CLAUDE.md
+install_icon.sh
+*-prd.md
